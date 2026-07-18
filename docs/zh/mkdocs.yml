@@ -1,16 +1,16 @@
-site_name: HPC Wiki
-site_description: HPC Wiki
-site_author: HPC Wiki Team
-site_url: https://hpcwiki.io/
-repo_name: lcpu-club/hpc-wiki
-repo_url: https://github.com/lcpu-club/hpc-wiki
-edit_uri: blob/master/docs/zh/docs/
-copyright: Copyright &copy; 2023 - 2023 HPC Wiki Team
+site_name: HITSZ HPC Wiki
+site_description: 哈尔滨工业大学（深圳）超算队高性能计算知识库
+site_author: HITSZ HPC Team and HPC Wiki contributors
+site_url: https://hitsz-hpc-jiuzhang.github.io/hpc-wiki/
+repo_name: HITSZ-HPC-JiuZhang/hpc-wiki
+repo_url: https://github.com/HITSZ-HPC-JiuZhang/hpc-wiki
+edit_uri: edit/main/docs/zh/docs/
+copyright: Copyright &copy; 2023 - 2026 HPC Wiki contributors and HITSZ HPC Team
 theme:
   name: material
   language: zh
   palette:
-    primary: white
+    primary: indigo
     accent: red
     scheme: preference
   icon:
@@ -34,8 +34,9 @@ plugins:
 - minify:
     minify_html: true
 nav:
-- Start:
-  - index.md
+- 开始:
+  - 首页: index.md
+  - HITSZ 超算队: about/hitsz-hpc.md
   - 贡献指南:
     - contribute/before-contributing.md
     - contribute/docs-organization.md

@@ -2,19 +2,19 @@
 
 ## 部署方式
 
-HPC Wiki 使用 [MkDocs](https://www.mkdocs.org/) 作为文档生成工具，使用 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 作为主题。文档源码托管在 [GitHub](https://github.com/lcpu-club/hpc-wiki)，使用 Cloudflare Pages 进行自动部署。所有对`main`分支的更改都会在几分钟内同步到网站上。
+HITSZ HPC Wiki 使用 [MkDocs](https://www.mkdocs.org/) 作为文档生成工具，使用 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 作为主题。文档源码托管在 [GitHub](https://github.com/HITSZ-HPC-JiuZhang/hpc-wiki)。对 `main` 分支的更改可通过站点部署流程发布。
 
 部署方式如下：
 
 ```bash
 # 1. clone
-git clone https://github.com/lcpu-club/hpc-wiki.git
-# 2. requirements
-pip install -r requirements.txt
+git clone https://github.com/HITSZ-HPC-JiuZhang/hpc-wiki.git
+cd hpc-wiki
 # generate static file in site/
-python3 scripts/docs.py build-all
-# deploy at http://127.0.0.1:8008
-python3 scripts/docs.py serve # or just python3 -m http.server  --directory site
+uvx --with-requirements requirements.txt mkdocs build \
+  -f docs/zh/mkdocs.yml -d "$(pwd)/site"
+# deploy at http://127.0.0.1:8000
+uvx --with-requirements requirements.txt mkdocs serve -f docs/zh/mkdocs.yml
 ```
 
 ## 文档组织方式
