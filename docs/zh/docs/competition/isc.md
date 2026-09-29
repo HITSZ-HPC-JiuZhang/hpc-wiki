@@ -43,6 +43,10 @@ ISC 学生集群竞赛由 ISC 与 HPC-AI Advisory Council 共同组织，分为*
 
 ISC 学生集群竞赛与 SC 学生集群竞赛、ASC 一起，构成了国际学生集群竞赛的主要格局[^5]。对准备参赛的同学来说，它是了解国际队伍在集群搭建、功耗控制、应用调优与现场协作等方面真实水平的重要窗口。
 
+---
+
+*本页撰写：AI 助手 `deepseek/deepseek-flash`（2026 年 9 月）；事实与图片出处见页面内引用。*
+
 ## 参考资料
 
 [^1]: [ISC High Performance History](https://isc-hpc.com/history/)（ISC 官方网站）

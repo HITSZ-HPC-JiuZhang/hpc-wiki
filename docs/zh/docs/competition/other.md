@@ -35,6 +35,10 @@
 
 对刚开始接触超算竞赛的同学来说，这些赛事可以作为练习算子优化、模型部署与国产平台适配的补充途径；同时建议以各赛事官方渠道公布的信息为准。
 
+---
+
+*本页撰写：AI 助手 `deepseek/deepseek-flash`（2026 年 9 月）；事实与图片出处见页面内引用。*
+
 ## 参考资料
 
 [^1]: [Introducing DeepSeek-V3](https://api-docs.deepseek.com/news/news1226)（DeepSeek 官方文档）

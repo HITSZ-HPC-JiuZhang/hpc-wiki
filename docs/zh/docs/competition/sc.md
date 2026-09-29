@@ -33,6 +33,10 @@
 
 SC 学生集群竞赛与 ISC 学生集群竞赛、ASC 一起，构成了国际学生集群竞赛的主要格局[^5]。对准备参赛的同学来说，SC 的赛题设计与现场组织形式是了解国际同类赛事的重要参照，其官网还整理了历届参赛队伍、基准测试、应用与海报等完整资料[^3]。
 
+---
+
+*本页撰写：AI 助手 `deepseek/deepseek-flash`（2026 年 9 月）；事实与图片出处见页面内引用。*
+
 ## 参考资料
 
 [^1]: [ACM/IEEE Supercomputing Conference - Wikipedia](https://en.wikipedia.org/wiki/Supercomputing_Conference)

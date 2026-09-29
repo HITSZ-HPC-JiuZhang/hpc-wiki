@@ -32,6 +32,10 @@
 
 图：第二届竞赛闭幕式现场（图片来源：华为鲲鹏社区）
 
+---
+
+*本页撰写：AI 助手 `deepseek/deepseek-flash`（2026 年 9 月）；事实与图片出处见页面内引用。*
+
 ## 参考资料
 
 [^1]: [比赛通知：第二届北京大学高性能计算综合能力竞赛](https://hpcgame.pku.edu.cn/announcement/fea73a45-59fc-41d1-980a-70a0823973f8)（HPCGame 官方网站公告）

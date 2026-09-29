@@ -23,3 +23,7 @@
 HPC 竞赛与实践涉及大量共通知识。本项目希望在保留来源与署名的前提下复用优质内容、减少重复建设，并持续补充适合 HITSZ 教学和训练环境的实践资料。
 
 本项目基于 [lcpu-club/hpc-wiki](https://github.com/lcpu-club/hpc-wiki) 适配。上游 **HPC Wiki** 源于社区，并由北京大学学生 Linux 俱乐部长期运营和维护；本版本保留上游项目及原作者署名，并继续采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议。
+
+---
+
+*本页撰写：AI 助手 `deepseek/deepseek-flash`（2026 年 9 月）。*

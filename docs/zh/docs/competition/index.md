@@ -30,6 +30,10 @@
 
 本页及各分页中的赛事标识与活动照片来自各赛事官方网站或主办单位公开报道，版权归相关主办方或权利人所有，此处仅用于赛事介绍。
 
+---
+
+*本页撰写：AI 助手 `deepseek/deepseek-flash`（2026 年 9 月）；事实与图片出处见页面内引用。*
+
 ## 参考资料
 
 [^1]: [Cluster Competition History](https://sc26.supercomputing.org/students/cluster-competition-history/)（SC 官方竞赛历史页面）

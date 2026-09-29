@@ -86,3 +86,7 @@ CPU 集群于 2017 年部署，由 4 套华为 E9000 刀片服务器机箱组成
 本项目是 [lcpu-club/hpc-wiki](https://github.com/lcpu-club/hpc-wiki) 的 HITSZ 版本。上游 **HPC Wiki** 源于社区，并由北京大学学生 Linux 俱乐部长期运营和维护；本版本保留上游项目及原作者的署名与贡献记录。
 
 本项目继续采用 [知识共享署名—非商业性使用—相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)（CC BY-NC-SA 4.0）。详细条款见仓库根目录的 [`LICENSE`](https://github.com/HITSZ-HPC-JiuZhang/hpc-wiki/blob/main/LICENSE)。
+
+---
+
+*本页撰写：AI 助手 `deepseek/deepseek-flash`（2026 年 9 月）。*
