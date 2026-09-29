@@ -55,5 +55,5 @@
 [^16]: [IEEE AICAS 2026 Grand Challenge - Efficient Inference and Optimization Track](https://tianchi.aliyun.com/competition/entrance/532450/introduction)（阿里云天池官方页面）
 [^17]: [MiniCPM & 昇腾推理优化与应用创新挑战赛](https://ascend.openbmb.cn/competition)（OpenBMB 官方赛事站点）
 [^18]: [上海交大团队获 AMD 分布式推理算子优化挑战赛特等奖](https://news.sjtu.edu.cn/jdyw/20251231/218629.html)（上海交通大学新闻网）
-[^19]: [AWS Trainium2/3 MoE Kernel Challenge](https://github.com/aws-neuron/nki-moe)、[MLSys 2026 FlashInfer AI Kernel Generation Contest](https://mlsys26.flashinfer.ai/)（赛事官方页面）
+[^19]: [AWS Trainium2 与 Trainium3 MoE Kernel Challenge](https://github.com/aws-neuron/nki-moe)、[MLSys 2026 FlashInfer AI Kernel Generation Contest](https://mlsys26.flashinfer.ai/)（赛事官方页面）
 [^20]: [百度商业 AI 技术创新大赛](https://aistudio.baidu.com/competition/detail/913)（飞桨 AI Studio 官方页面）
