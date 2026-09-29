@@ -47,7 +47,7 @@ nav:
   - hpc-intro/modern-hpc.md
 - HPC比赛:
   - 比赛简介:
-    - competition/competition-intro.md
+    - competition/index.md
     - competition/sc.md
     - competition/isc.md
     - competition/asc.md

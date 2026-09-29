@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="380" viewBox="0 0 1040 380" font-family="Noto Sans SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif">
+  <rect x="0" y="0" width="1040" height="380" fill="#ffffff"/>
+  <line x1="60" y1="205" x2="1000" y2="205" stroke="#607d8b" stroke-width="3"/>
+  <polygon points="1000,205 986,197 986,213" fill="#607d8b"/>
+  <!-- milestone data: x positions -->
+  <!-- 1986 -->
+  <circle cx="80" cy="205" r="8" fill="#3f51b5"/>
+  <text x="80" y="150" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a237e">1986</text>
+  <text x="80" y="172" text-anchor="middle" font-size="12" fill="#37474f">ISC 起源（曼海姆）</text>
+  <!-- 1988 -->
+  <circle cx="226" cy="205" r="8" fill="#3f51b5"/>
+  <text x="226" y="242" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a237e">1988</text>
+  <text x="226" y="264" text-anchor="middle" font-size="12" fill="#37474f">SC 会议创办</text>
+  <!-- 2007 -->
+  <circle cx="372" cy="205" r="8" fill="#3f51b5"/>
+  <text x="372" y="150" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a237e">2007</text>
+  <text x="372" y="172" text-anchor="middle" font-size="12" fill="#37474f">SC 学生集群竞赛创办</text>
+  <!-- 2012 -->
+  <circle cx="518" cy="205" r="8" fill="#3f51b5"/>
+  <text x="518" y="242" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a237e">2012</text>
+  <text x="518" y="264" text-anchor="middle" font-size="12" fill="#37474f">ASC 与 ISC 学生集群竞赛创办</text>
+  <!-- 2021 -->
+  <circle cx="664" cy="205" r="8" fill="#3f51b5"/>
+  <text x="664" y="150" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a237e">2021</text>
+  <text x="664" y="172" text-anchor="middle" font-size="12" fill="#37474f">线上赛道（IndySCC）推出</text>
+  <!-- 2023 -->
+  <circle cx="810" cy="205" r="8" fill="#3f51b5"/>
+  <text x="810" y="242" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a237e">2023</text>
+  <text x="810" y="264" text-anchor="middle" font-size="12" fill="#37474f">北大 HPCGame 首办</text>
+  <!-- 2024 -->
+  <circle cx="956" cy="205" r="8" fill="#3f51b5"/>
+  <text x="956" y="150" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a237e">2024</text>
+  <text x="956" y="172" text-anchor="middle" font-size="12" fill="#37474f">AI Infra 类赛事增多</text>
+</svg>
