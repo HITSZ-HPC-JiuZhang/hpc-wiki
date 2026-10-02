@@ -30,6 +30,8 @@ plugins:
     redirect_maps:
       performance-analysis/nsys.md: gpu/nsys.md
       hardware/gpu.md: gpu/arch.md
+      power-management/intro.md: operations/power-management/intro.md
+      power-management/perception.md: operations/power-management/perception.md
 - search
 - minify:
     minify_html: true
@@ -53,15 +55,22 @@ nav:
     - competition/asc.md
     - competition/hpcgame.md
     - competition/other.md
-  - 功耗管理:
-    - power-management/intro.md
-    - power-management/perception.md
 - 超算平台:
   - platform/platform-intro.md
   - platform/cluster.md
   - platform/cloud.md
   - platform/scheduling.md
   - platform/modules.md
+- 运维:
+  - 运维概述: operations/index.md
+  - 服务器运维: operations/server.md
+  - 功耗管理: operations/power-management/intro.md
+  - 功耗感知: operations/power-management/perception.md
+  - 系统配置: operations/system-config.md
+  - 编译器选择: operations/compiler.md
+  - 环境管理: operations/environment.md
+  - 操作历史记录: operations/operation-log.md
+  - Linux 发行版选择: operations/linux-distro.md
 - 硬件:
   - hardware/hardware-intro.md
   - hardware/processor.md
@@ -115,6 +124,7 @@ nav:
   - sci-mlsys/parallelism.md
   - sci-mlsys/sparsity.md
   - sci-mlsys/quantization.md
+- AI Native: ai-native/index.md
 - Misc:
   - misc/faq.md
   - misc/shell.md
